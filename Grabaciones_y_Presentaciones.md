@@ -1,6 +1,7 @@
 ## 📺 Grabaciones y Presentaciones
 Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cada sesión.
 
+# Semana 1
 - [Martes 11 Oct - Introducción a Swift](https://drive.google.com/file/d/1wjF9k6weNs7a_TxiOM2S6c_UYYFx4g6z/view?usp=sharing)
 - 📺 [Grabacion Martes 11 Oct](https://drive.google.com/file/d/1kYSkjodzqM7tXlL-b_qadIeFutK1j6NH/view?usp=sharing)
 - [Jueves 13 Oct - Opcionales y manejo de colecciones](https://drive.google.com/file/d/1GKCpve0gNY9T9LSd-5J1jfKo1xjkgOuY/view?usp=sharing)
