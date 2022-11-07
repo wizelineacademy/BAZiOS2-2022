@@ -42,3 +42,10 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Viernes 11 Nov - Notification Center](https://drive.google.com/file/d/1zI3MkXloQ_GxvsRfH1bTe3OQ7WOdRrG5/view?usp=sharing)
 - 📺 [Grabacion Viernes 11 Nov]()
 
+# Semana 6
+- [Martes 15 Nov - Closures]()
+- 📺 [Grabacion Martes 15 Nov]()
+- [Jueves 17 Nov - ARC]()
+- 📺 [Grabacion Jueves 17 Nov]()
+- [Viernes 18 Nov - Servicios REST]()
+- 📺 [Grabacion Viernes 18 Nov]()
