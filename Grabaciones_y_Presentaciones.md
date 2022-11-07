@@ -33,3 +33,12 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Jueves 3 Nov](https://drive.google.com/file/d/1QRrgVCCkH49KHfqBXYw-D7uGDmLDorko/view?usp=sharing)
 - [Viernes 4 Nov - UIKit y componentes básicos](https://drive.google.com/file/d/1yEFbGXpUR7Zb8LlIkdN0vfgFvGvMAAy8/view?usp=sharing)
 - 📺 [Grabacion Viernes 4 Nov](https://drive.google.com/file/d/1MAG9hHxwTI_tZ3A7fhyUm5KR3JDCFf35/view?usp=sharing)
+
+# Semana 5
+- [Martes 8 Nov - Table Views & Collections Views](https://drive.google.com/file/d/1Wn_VwZPncIenaNqZZuvrzWr7nIy_Od8Q/view?usp=sharing)
+- 📺 [Grabacion Martes 8 Nov]()
+- [Jueves 10 Nov - Extensiones](https://drive.google.com/file/d/1BgzezlbOGizdEvTh4AZJhB4gYAYm9Lv3/view?usp=sharing)
+- 📺 [Grabacion Jueves 10 Nov]()
+- [Viernes 11 Nov - Notification Center](https://drive.google.com/file/d/1zI3MkXloQ_GxvsRfH1bTe3OQ7WOdRrG5/view?usp=sharing)
+- 📺 [Grabacion Viernes 11 Nov]()
+
