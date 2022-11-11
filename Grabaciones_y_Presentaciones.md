@@ -40,7 +40,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 10 Nov - Extensiones](https://drive.google.com/file/d/1BgzezlbOGizdEvTh4AZJhB4gYAYm9Lv3/view?usp=sharing)
 - 📺 [Grabacion Jueves 10 Nov](https://drive.google.com/file/d/1pq_TYCRKdkfkf4_QLMZjCtfBKOMip-kT/view?usp=sharing)
 - [Viernes 11 Nov - Notification Center](https://drive.google.com/file/d/1zI3MkXloQ_GxvsRfH1bTe3OQ7WOdRrG5/view?usp=sharing)
-- 📺 [Grabacion Viernes 11 Nov]()
+- 📺 [Grabacion Viernes 11 Nov](https://drive.google.com/file/d/1aOoiYFqV1di5D91d_-Oo7NWU4pE0yesk/view?usp=sharing)
 
 # Semana 6
 - [Martes 15 Nov - Closures]()
