@@ -38,7 +38,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 8 Nov - Table Views & Collections Views](https://drive.google.com/file/d/1Wn_VwZPncIenaNqZZuvrzWr7nIy_Od8Q/view?usp=sharing)
 - 📺 [Grabacion Martes 8 Nov](https://drive.google.com/file/d/1N1D8s0dA9Ve_tzz59ZLJ7jnOMk03iUNQ/view?usp=sharing)
 - [Jueves 10 Nov - Extensiones](https://drive.google.com/file/d/1BgzezlbOGizdEvTh4AZJhB4gYAYm9Lv3/view?usp=sharing)
-- 📺 [Grabacion Jueves 10 Nov]()
+- 📺 [Grabacion Jueves 10 Nov](https://drive.google.com/file/d/1pq_TYCRKdkfkf4_QLMZjCtfBKOMip-kT/view?usp=sharing)
 - [Viernes 11 Nov - Notification Center](https://drive.google.com/file/d/1zI3MkXloQ_GxvsRfH1bTe3OQ7WOdRrG5/view?usp=sharing)
 - 📺 [Grabacion Viernes 11 Nov]()
 
