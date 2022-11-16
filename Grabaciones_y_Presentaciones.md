@@ -43,9 +43,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 11 Nov](https://drive.google.com/file/d/1aOoiYFqV1di5D91d_-Oo7NWU4pE0yesk/view?usp=sharing)
 
 # Semana 6
-- [Martes 15 Nov - Closures]()
-- 📺 [Grabacion Martes 15 Nov]()
-- [Jueves 17 Nov - ARC]()
+- [Martes 15 Nov - Closures](https://drive.google.com/file/d/14mqO4yxTR8cj1HGNNaPYlqLOk1Ke7Tlh/view?usp=sharing)
+- 📺 [Grabacion Martes 15 Nov](https://drive.google.com/file/d/1AjYNmPFUtW3Oj-HbLZzefWcLIWhf6no5/view?usp=sharing)
+- [Jueves 17 Nov - ARC](https://drive.google.com/file/d/1pLMsi5GxesgZkZ2gQKuw44tOd_1Kg8eP/view?usp=sharing)
 - 📺 [Grabacion Jueves 17 Nov]()
-- [Viernes 18 Nov - Servicios REST]()
+- [Viernes 18 Nov - Servicios REST](https://drive.google.com/file/d/12A6dTKkcF_eGc4IyDC9qQDi-ROzMLYnX/view?usp=sharing)
 - 📺 [Grabacion Viernes 18 Nov]()
