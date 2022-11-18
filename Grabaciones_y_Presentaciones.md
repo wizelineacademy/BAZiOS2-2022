@@ -46,6 +46,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 15 Nov - Closures](https://drive.google.com/file/d/14mqO4yxTR8cj1HGNNaPYlqLOk1Ke7Tlh/view?usp=sharing)
 - 📺 [Grabacion Martes 15 Nov](https://drive.google.com/file/d/1AjYNmPFUtW3Oj-HbLZzefWcLIWhf6no5/view?usp=sharing)
 - [Jueves 17 Nov - ARC](https://drive.google.com/file/d/1pLMsi5GxesgZkZ2gQKuw44tOd_1Kg8eP/view?usp=sharing)
-- 📺 [Grabacion Jueves 17 Nov]()
+- 📺 [Grabacion Jueves 17 Nov](https://drive.google.com/file/d/1OekuKSMhQOzDVPHovT__W8Unwi63ccxM/view?usp=sharing)
 - [Viernes 18 Nov - Servicios REST](https://drive.google.com/file/d/12A6dTKkcF_eGc4IyDC9qQDi-ROzMLYnX/view?usp=sharing)
 - 📺 [Grabacion Viernes 18 Nov]()
