@@ -48,4 +48,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 17 Nov - ARC](https://drive.google.com/file/d/1pLMsi5GxesgZkZ2gQKuw44tOd_1Kg8eP/view?usp=sharing)
 - 📺 [Grabacion Jueves 17 Nov](https://drive.google.com/file/d/1OekuKSMhQOzDVPHovT__W8Unwi63ccxM/view?usp=sharing)
 - [Viernes 18 Nov - Servicios REST](https://drive.google.com/file/d/12A6dTKkcF_eGc4IyDC9qQDi-ROzMLYnX/view?usp=sharing)
-- 📺 [Grabacion Viernes 18 Nov]()
+- 📺 [Grabacion Viernes 18 Nov](https://drive.google.com/file/d/1ZdHcJipxq6DZDqE6Oe29zXX8fvm3Tz3N/view?usp=sharing)
